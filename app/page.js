@@ -15,7 +15,7 @@ export default function Home() {
     >
       <Container maxWidth="md" sx={{ textAlign: "center", color: "#fff" }}>
         <Typography variant="h2" fontWeight="bold" gutterBottom>
-          Welcome to Anish Krishnan Vercel Demo
+          Welcome to Anish Krishnan
         </Typography>
 
         <Typography variant="h6" sx={{ mb: 4 }}>
