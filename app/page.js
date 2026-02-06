@@ -17,9 +17,6 @@ export default function Home() {
         <Typography variant="h2" fontWeight="bold" gutterBottom>
           Welcome to Anish Krishnan
         </Typography>
-           <Typography variant="subtitle2" fontWeight="bold" gutterBottom>
-          Welcome back
-        </Typography>
         <Button
           variant="contained"
           size="large"
