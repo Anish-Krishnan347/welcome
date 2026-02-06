@@ -17,11 +17,6 @@ export default function Home() {
         <Typography variant="h2" fontWeight="bold" gutterBottom>
           Welcome to Anish Krishnan
         </Typography>
-
-        <Typography variant="h6" sx={{ mb: 4 }}>
-          This is a simple landing page built using Next.js and MUI
-        </Typography>
-
         <Button
           variant="contained"
           size="large"
@@ -33,7 +28,7 @@ export default function Home() {
             },
           }}
         >
-          Get Started
+          CLICK ME
         </Button>
       </Container>
     </Box>
